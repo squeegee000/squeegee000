@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @squeegee000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dima
+- 👀 I’m interested in backend namely the study of Golange
+- 🌱 I’m currently learning I'm studying at Hexlet сollege as a programmer
+- 💞️ I’m looking to collaborate :)
+- 📫 How to reach me in Telegram: @DimkaMr
 
 <!---
 squeegee000/squeegee000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
